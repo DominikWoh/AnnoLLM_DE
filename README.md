@@ -127,3 +127,6 @@ Trainerin: Elena Müller, elena.mueller@agileworks.com
 Zoom-Link: https://zoom.us/j/1234567890
 Feedback bis 31. Januar an workshop@firma.de
 ```
+
+**Download LLMs:**
+https://zenodo.org/records/16494439

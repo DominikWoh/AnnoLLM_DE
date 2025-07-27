@@ -22,7 +22,7 @@ Das Modell gibt pro erkannter Entity eine Zeile im Format `Original|TypNummer` a
 
 ## Trainingsdaten
 
-Die Feinabstimmung erfolgte anhand von 80 realitätsnahen Dokumenten:
+Die Feinabstimmung erfolgte anhand von 80 realitätsnahen Dokumenten (V1 = 5000 Daten):
 
 * **Vertrags- und Stellenangebote** mit Namen, Adressen und Terminen
 * **Rechnungsdokumente** mit Kontodaten, Steuernummern, IBANs
